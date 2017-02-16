@@ -1,4 +1,4 @@
-# :closed_lock_with_key: Roave\Signature 
+# Roave\Signature
 
 Sign and validate signed files made easy.
 
